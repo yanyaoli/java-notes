@@ -1,4 +1,4 @@
-## <b>对象是包含相关状态和行为的软件包
+## 对象是包含相关状态和行为的软件包
 ---
 * 本节解释如何在对象中表示状态和行为，介绍数据封装的概念，并解释以这种方式设计软件的好处。
 
@@ -13,7 +13,7 @@
 * 确保写下您的观察结果,当您这样做时，您会注意到现实世界对象的复杂性各不相同。
 <br>
 <div align="center">
-<img src="https://raw.githubusercontent.com/eoooy/Gallery/main/java-tutorial/docs/java/opp/software-object.png" alt="software-object" width="300" height="300" align="center" />
+<img src="https://raw.githubusercontent.com/eoooy/Gallery/main/java-tutorial/docs/java/opp/software-object.png" alt="software-object" width="350" height="300" align="center" />
 <p>software object</p>
 </div>
 <br>
