@@ -1,19 +1,22 @@
-## <b>对象是包含相关状态和行为的软件包</b>
+## <b>对象是包含相关状态和行为的软件包
 ---
 * 本节解释如何在对象中表示状态和行为，介绍数据封装的概念，并解释以这种方式设计软件的好处。
 
 对象共享两个特征: <b>状态和行为</b>
-
-
 ### 识别现实世界对象的状态和行为是开始思考面向对象编程的好方法
 ### 真实世界的观察是理解面向对象编程世界的起点
 ---
 现在花一分钟时间观察您附近区域的真实世界物体。<br>
 对于您看到的每个对象，问自己两个问题：
 1. 此对象可以处于什么可能的状态？
-2. 此对象可以执行哪些可能的行为？<br>
-确保写下您的观察结果,当您这样做时，您会注意到现实世界对象的复杂性各不相同。
-<img src="https://raw.githubusercontent.com/eoooy/Gallery/main/java-tutorial/docs/java/opp/software-object.png" alt=“software-object” width=“300” height=“300” />
+2. 此对象可以执行哪些可能的行为？
+* 确保写下您的观察结果,当您这样做时，您会注意到现实世界对象的复杂性各不相同。
+<br>
+<div align="center">
+<img src="https://raw.githubusercontent.com/eoooy/Gallery/main/java-tutorial/docs/java/opp/software-object.png" alt="software-object" width="300" height="300" align="center" />
+<p>software object</p>
+</div>
+<br>
 
 |对象|可能的状态|可能的行为|
 |:---:|:---:|:---:|
@@ -30,12 +33,17 @@
 * 隐藏内部状态并要求通过对象的方法执行所有的交互被称为<b>数据封装</b> —— 面向对象编程的基本原理
 
 以自行车为例：
-<img src="https://raw.githubusercontent.com/eoooy/Gallery/main/java-tutorial/docs/java/opp/bicycle-modeled-as-a-software-object.png" alt="bicycle_modeled_as_a_software_object" width="300" height="300" />
+<br>
+<div align="center">
+<img src="https://raw.githubusercontent.com/eoooy/Gallery/main/java-tutorial/docs/java/opp/bicycle-modeled-as-a-software-object.png" alt="bicycle_modeled_as_a_software_object" width="300" height="300" align="center" />
+<p>bicycle modeled as a software object</p>
+</div>
+
 通过属性状态(当前速度、当前踏板节奏和当前档位)并提供改变状态的方法，对象仍然可以控制外部世界如何使用它。例如，如果自行车只有6个档位，那么改变档位的方法可以拒绝任何小于1或大于6的值。
 
 #### 将代码捆绑到单独的软件对象中提供了许多好处，包括：
 
-1. <b>模块化</b>：一个对象的源代码可以独立于其他对象的源代码编写和维护。一旦创建了对象，就可以很容易地在系统内传递对象。
+1. <b>模块化</b>：个对象的源代码可以独立于其他对象的源代码编写和维护。一旦创建了对象，就可以很容易地在系统内传递对象。
 
 2. <b>信息隐藏</b>：通过只与对象的方法交互，其内部实现的细节对外界保持隐藏。
 
