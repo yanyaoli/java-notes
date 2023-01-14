@@ -1,3 +1,4 @@
+# 什么是对象？(Object)
 ## 对象是包含相关状态和行为的软件包
 ---
 * 本节解释如何在对象中表示状态和行为，介绍数据封装的概念，并解释以这种方式设计软件的好处。
@@ -13,8 +14,8 @@
 * 确保写下您的观察结果,当您这样做时，您会注意到现实世界对象的复杂性各不相同。
 <br>
 <div align="center">
-<img src="https://raw.githubusercontent.com/eoooy/Gallery/main/java-tutorial/docs/java/opp/software-object.png" alt="software-object" width="350" height="300" align="center" />
-<p>software object</p>
+<img src="https://raw.githubusercontent.com/eoooy/java-tutorial/main/gallery/docs/java/opp/a-software-object.png" alt="a-software-object" width="400" height="300" align="center" />
+<p>软件对象</p>
 </div>
 <br>
 
@@ -35,8 +36,8 @@
 以自行车为例：
 <br>
 <div align="center">
-<img src="https://raw.githubusercontent.com/eoooy/Gallery/main/java-tutorial/docs/java/opp/bicycle-modeled-as-a-software-object.png" alt="bicycle_modeled_as_a_software_object" width="300" height="300" align="center" />
-<p>bicycle modeled as a software object</p>
+<img src="https://raw.githubusercontent.com/eoooy/java-tutorial/main/gallery/docs/java/opp/a-bicycle-modeled-as-a-software-object.png" alt="a-bicycle-modeled-as-a-software-object" width="300" height="300" align="center" />
+<p>建模为软件对象的自行车</p>
 </div>
 
 通过属性状态(当前速度、当前踏板节奏和当前档位)并提供改变状态的方法，对象仍然可以控制外部世界如何使用它。例如，如果自行车只有6个档位，那么改变档位的方法可以拒绝任何小于1或大于6的值。
