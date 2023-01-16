@@ -1,5 +1,20 @@
-A package is a namespace that organizes a set of related classes and interfaces. Conceptually you can think of packages as being similar to different folders on your computer. You might keep HTML pages in one folder, images in another, and scripts or applications in yet another. Because software written in the Java programming language can be composed of hundreds or thousands of individual classes, it makes sense to keep things organized by placing related classes and interfaces into packages.
+# 什么是包？(Package)
+### 包是组织一组相关类和接口的命名空间
 
-The Java platform provides an enormous class library (a set of packages) suitable for use in your own applications. This library is known as the "Application Programming Interface", or "API" for short. Its packages represent the tasks most commonly associated with general-purpose programming. For example, a String object contains state and behavior for character strings; a File object allows a programmer to easily create, delete, inspect, compare, or modify a file on the filesystem; a Socket object allows for the creation and use of network sockets; various GUI objects control buttons and check boxes and anything else related to graphical user interfaces. There are literally thousands of classes to choose from. This allows you, the programmer, to focus on the design of your particular application, rather than the infrastructure required to make it work.
+**从概念上讲，您可以将包看作类似于计算机上的不同文件夹。**
+> 您可以将HTML页面保存在一个文件夹中，图像保存在另一个文件夹中，脚本或应用程序保存在另一个文件夹中。
+> 因为用Java编程语言编写的软件可以由数百或数千个单独的类组成，所以通过将相关的类和接口放入包中来组织内容是有意义的。
 
-The Java Platform API Specification contains the complete listing for all packages, interfaces, classes, fields, and methods supplied by the Java SE platform. Load the page in your browser and bookmark it. As a programmer, it will become your single most important piece of reference documentation.
+------------
+
+Java平台提供了一个巨大的类库(一组包)，适合在您自己的应用程序中使用
+这个库被称为“**应用程序编程接口**”，简称“**API**”，它的包表示最常与通用编程相关的任务。
+例如，
+- String对象包含字符串的状态和行为
+- File对象允许程序员轻松地创建、删除、检查、比较或修改文件系统上的文件
+- Socket对象允许创建和使用网络套接字
+- 各种GUI对象、控制按钮和复选框以及任何与图形用户界面相关的东西
+
+------------
+
+**Java平台API规范包含Java SE平台提供的所有包、接口、类、字段和方法的完整列表。**
