@@ -15,7 +15,7 @@
 在本例中，Bicycle现在成为MountainBike、RoadBike和TandemBike的超类。
 在Java编程语言中，每个类都允许有一个直接的超类，并且每个超类都可以有无限数量的子类:
 <div align="center">
-<img src="https://raw.githubusercontent.com/eoooy/java-tutorial/main/gallery/docs/java/oop/a-hierarchy-of-bicycle-classes.png" alt="a-software-object" width="400" height="300" />
+<img src="https://raw.githubusercontent.com/ooyq/java-tutorial/main/gallery/docs/java/oop/a-hierarchy-of-bicycle-classes.png" alt="a-software-object" width="400" height="300" />
 <p>自行车类的层次结构</p>
 </div>
 
