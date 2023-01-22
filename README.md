@@ -5,6 +5,7 @@
 	- [语言基础](https://github.com/ooyq/java-tutorial/blob/main/docs/java/language-basics/README.md)
 - [参考手册]()
 	- [保留关键字](https://github.com/ooyq/java-tutorial/blob/main/docs/java/reference/keywords.md)
+	- [字符串方法](https://github.com/ooyq/java-tutorial/blob/main/docs/java/reference/string.md)
 
 
 
