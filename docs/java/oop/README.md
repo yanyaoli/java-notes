@@ -1,5 +1,5 @@
 # 面向对象编程 (Object-Oriented Programming)
-> 对象、类、接口、包和继承
+> 介绍面向对象编程 —— 对象、类、接口、包和继承
 
 ## 目录
 - [什么是对象(Object)](https://github.com/eoooy/java-tutorial/blob/main/docs/java/oop/object.md)
