@@ -13,7 +13,7 @@
 * 确保写下您的观察结果,当您这样做时，您会注意到现实世界对象的复杂性各不相同。
 <br>
 <div align="center">
-<img src="https://raw.githubusercontent.com/eoooy/java-tutorial/main/gallery/docs/java/oop/a-software-object.png" alt="a-software-object" width="400" height="300" align="center" />
+<img src="https://raw.githubusercontent.com/ooyq/java-tutorial/main/gallery/docs/java/oop/a-software-object.png" alt="a-software-object" width="400" height="300" align="center" />
 <p>软件对象</p>
 </div>
 <br>
@@ -35,7 +35,7 @@
 以自行车为例：
 <br>
 <div align="center">
-<img src="https://raw.githubusercontent.com/eoooy/java-tutorial/main/gallery/docs/java/oop/a-bicycle-modeled-as-a-software-object.png" alt="a-bicycle-modeled-as-a-software-object" width="300" height="300" align="center" />
+<img src="https://raw.githubusercontent.com/ooyq/java-tutorial/main/gallery/docs/java/oop/a-bicycle-modeled-as-a-software-object.png" alt="a-bicycle-modeled-as-a-software-object" width="300" height="300" align="center" />
 <p>建模为软件对象的自行车</p>
 </div>
 
