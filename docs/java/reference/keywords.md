@@ -59,3 +59,19 @@
 |while   |  创建一个 `while` 循环 |
 
 **注意：** `true`、`false`、`null` 不是关键字，而是字面量和保留字，不能用作标识符。
+
+## 分类
+|  关键字  ||||||||||||
+| :-----: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+| 数据类型 | boolean | byte | char | class | double | float | int | interface | long | short | void |
+| 流程控制 | if | else | switch | case | default | while | do | for | break | continue | return |
+| 数据类型值 | true | false | null |||||||||
+| 访问权限修饰符 | private |  public | protected|||||||||
+| 类、函数、变量修饰符 | abstract | final | static | synchronized ||||||||
+| 建立实例及引用实例、判断实例 | new | this | super | instanceof ||||||||
+| 类与类之间的关系 | extends | implements ||||||||||
+| 包 | package | import ||||||||||
+| 异常处理 | try | catch | finally | throw | throws |||||||
+| 其他修饰符 | native | strictfp | transient | volatile | assert |||||||
+
+
