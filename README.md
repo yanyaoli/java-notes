@@ -3,7 +3,8 @@
 - [Java教程](https://github.com/ooyq/java-tutorial/blob/main/docs/java/README.md)
 	- [面向对象编程](https://github.com/ooyq/java-tutorial/blob/main/docs/java/oop/README.md)
 	- [语言基础](https://github.com/ooyq/java-tutorial/blob/main/docs/java/language-basics/README.md)
-- [实例]（https://github.com/ooyq/java-tutorial/blob/main/examples/)
+
+- [实例](https://github.com/ooyq/java-tutorial/blob/main/examples/)
 - [参考手册]()
 	- [保留关键字](https://github.com/ooyq/java-tutorial/blob/main/docs/java/reference/keywords.md)
 	- [字符串方法](https://github.com/ooyq/java-tutorial/blob/main/docs/java/reference/string.md)
