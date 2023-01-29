@@ -10,5 +10,11 @@ public class HelloWorld {
     public static void main(String[] args) {    
         // 注：String args[] 与 String[] args 都可以执行，但推荐使用 String[] args，这样可以避免歧义和误读。
         System.out.println("Hello World");
+        System.out.println("a");
+        System.out.println("a" + 1);
+        System.out.println("hello" + 'a' + 1);
+        System.out.println('a' + 1 + "hello");
+        System.out.println("5+5=" + 5 + 5);
+        System.out.println(5 + 5 + "=5+5");
     }
 }
