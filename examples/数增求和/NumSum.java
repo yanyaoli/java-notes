@@ -3,7 +3,6 @@
  *  a + aa + aaa + ··· + aaaaaaaaa = ? （a为1~9之中的任意一个数字）
  */
 
-
 package 数增求和;
 
 import java.util.Scanner;
