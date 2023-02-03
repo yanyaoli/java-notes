@@ -17,15 +17,17 @@ public class NumSum {
 
         int sum = 0;
 
-        Scanner input  = new Scanner(System.in);
+        Scanner sc  = new Scanner(System.in);
         
         System.out.println("请输入 a 的值（1~9）：");
 
-        a = input.nextInt();
+        a = sc.nextInt();
 
         System.out.println("请输入最多相加项的数量:");
 
-        amount = input.nextInt();
+        amount = sc.nextInt();
+
+        sc.close();
 
         // 用于保存前一项的值 
         int a1 = a;

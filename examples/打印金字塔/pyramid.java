@@ -24,6 +24,8 @@ public class pyramid {
 
         int n = sc.nextInt();
 
+        sc.close();
+
         while (n < 1 || n > 9) {
 
             System.out.print("您输入的数字不在1~9之间，或者不是整数，请重新输入。");
