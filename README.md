@@ -1,4 +1,4 @@
-# JAVA教程学习笔记
+# Java 学习笔记
 ## 总目录
 - [Java教程](https://github.com/ooyq/java-tutorial/blob/main/docs/java/README.md)
 	- [面向对象编程](https://github.com/ooyq/java-tutorial/blob/main/docs/java/oop/README.md)
