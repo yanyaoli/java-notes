@@ -8,11 +8,12 @@ package 分数等级;
 import java.util.Scanner;
 
 public class score {
-    
+
     public static void main(String[] args) {
         System.out.println("请输入分数：");
         Scanner sc = new Scanner(System.in);
         double score = sc.nextDouble();
+        sc.close();
         System.out.println("分数等级为：" + getGrade(score));
     }
 
