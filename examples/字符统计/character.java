@@ -16,9 +16,10 @@ public class character {
         Scanner sc = new Scanner(System.in);
         String str = sc.nextLine();
         sc.close();
-
-        count(str);
-        ascii(str);
+ 
+        count1(str);
+        count2(str);
+        count3(str);
     }
 
     /*
@@ -27,7 +28,7 @@ public class character {
     字母：(大写)65~90、(小写)97~122
     空格：32
     */
-    private static void ascii(String str) {
+    private static void count1(String str) {
 
         int num = 0; // 数字的个数
         int letter = 0; // 字母的个数
@@ -50,12 +51,28 @@ public class character {
         
 
 
-    
+    private static void count2(String str) {
+
+        char[] chars = str.toCharArray();
+        int letters = 0;
+        int spaces = 0;
+        int nums = 0;
+        int others = 0;
+
+        for (char c : chars) {
+            if ((c >= 'A' && c <= 'Z') || (c >= 'a' && c <= 'z')) letters++;
+            else if (c == 32) spaces++;
+            else if (c >= '1' && c <= '9') nums++;
+            else others++;
+        }
+        System.out.println("数字：" + nums + "个，字母：" + letters + "个，空格：" + spaces + "个，其他：" + others + "个");
+    }
+
 
     // 利用regex正则表达式
-    private static void count(String str) {
+    private static void count3(String str) {
 
-        String E1 = "[\\u4e00-\\u9fa5]";// 汉字
+        String E1 = "[\u4e00-\u9fa5]";// 汉字
         String E2 = "[a-zA-Z]";
         String E3 = "[0-9]";
         String E4 = "\\s";// 空格
@@ -87,5 +104,7 @@ public class character {
                 Other++;
         }
         System.out.println("汉字：" + Chinese + "个， 数字：" + Number + "个，字母：" + Letter + "个，空格：" + Space + "个，其他：" + Other + "个");
+
+        // 汉字字符个数统计出错
     }
 }
