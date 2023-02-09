@@ -17,6 +17,7 @@ public class Factorization {
         Scanner sc = new Scanner(System.in);
 
         int num = sc.nextInt();
+        sc.close();
 
         method1(num);
         method2(num);
