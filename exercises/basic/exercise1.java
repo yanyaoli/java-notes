@@ -6,7 +6,7 @@
 
 package exercises.basic;
 
-public class example01 {
+public class exercise1 {
     public static void main(String[] args) {
 
         char horse = '马';

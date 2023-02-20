@@ -6,7 +6,7 @@
 
 package exercises.basic;
 
-public class example06 {
+public class exercise6 {
     public static void main(String[] args) {
         double score = 80;
 

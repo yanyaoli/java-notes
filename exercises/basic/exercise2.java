@@ -18,7 +18,7 @@
 
 package exercises.basic;
 
-public class example02 {
+public class exercise2 {
     public static void main(String[] args) {
 
         String date = "2021-03-10";

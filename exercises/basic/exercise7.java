@@ -8,7 +8,7 @@
 
 package exercises.basic;
 
-public class example07 {
+public class exercise7 {
     public static void main(String[] args) {
         double recharge = 10;  // 话费充值
         double callCost = 0.2;  // 通话费用

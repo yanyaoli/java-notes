@@ -14,7 +14,7 @@
 
 package exercises.basic;
 
-public class example03 {
+public class exercise3 {
     public static void main(String[] args) {
         
         String name = "李四";

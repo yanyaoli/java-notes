@@ -6,8 +6,17 @@
 
 package exercises.basic;
 
-public class example05 {
+public class exercise5 {
     public static void main(String[] args) {
-        
+        int num = 123;
+        int n1, n2, n3;
+
+        String newNum;
+        n3 = num % 10;
+        n2 = (num / 10) % 10;
+        n1 = (num / 100);
+        newNum = n3 + "" + n2 + "" + n1;
+
+        System.out.println(newNum);
     }
 }

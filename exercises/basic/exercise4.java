@@ -6,7 +6,7 @@
 
 package exercises.basic;
 
-public class example04 {
+public class exercise4 {
     public static void main(String[] args) {
         int salary = 4500;
         int bonus = 1000;
