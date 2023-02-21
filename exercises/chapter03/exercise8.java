@@ -9,6 +9,7 @@ package chapter03;
 
 public class exercise8 {
     public static void main(String[] args) {
+        
         int length = 400;
         int width = 160;
         int height = 30;

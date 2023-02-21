@@ -17,6 +17,6 @@ public class exercise5 {
         n1 = (num / 100);
         newNum = n3 + "" + n2 + "" + n1;
 
-        System.out.println(newNum);
+        System.out.println(newNum);   
     }
 }

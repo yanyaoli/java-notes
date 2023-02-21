@@ -31,6 +31,6 @@ public class exercise3 {
         System.out.println("年龄： " + age);
         System.out.println("身高： " + height + "米");
         System.out.println("体重： " + weight + "千克");
-        System.out.println("是否已婚：  " + married);
+        System.out.println("是否已婚：  " + married); 
     }
 }

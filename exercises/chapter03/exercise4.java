@@ -8,6 +8,7 @@ package chapter03;
 
 public class exercise4 {
     public static void main(String[] args) {
+
         int salary = 4500;
         int bonus = 1000;
         int cost = 500;
@@ -18,6 +19,5 @@ public class exercise4 {
         System.out.println("小李每月要缴纳的五险一金合计是：  " + cost + "元");
 
         System.out.println("小李每月的最终收入是：  " + income + "元") ;
-
     }
 }

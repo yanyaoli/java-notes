@@ -12,6 +12,7 @@ public class exercise1 {
         
         System.out.print("请输入一个整数：");
         Scanner scanner = new Scanner(System.in);
+        scanner.close();
         
         if (scanner.hasNextInt()) {
             // 判断输入的是否是整数
@@ -27,6 +28,5 @@ public class exercise1 {
             String num = scanner.nextLine();
             System.out.println( num + " 不是整数");
         }
-
     }
 }

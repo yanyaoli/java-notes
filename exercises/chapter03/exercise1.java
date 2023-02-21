@@ -13,6 +13,6 @@ public class exercise1 {
         char elephant = '象';
         char soldier = '卒';
 
-        System.out.println(horse + "走日，" + elephant + "走田，小" + soldier + "一去不复还");
+        System.out.println(horse + "走日，" + elephant + "走田，小" + soldier + "一去不复还"); 
     }
 }

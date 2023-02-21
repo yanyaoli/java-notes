@@ -2,7 +2,6 @@
  * 输出菱形
  * 编写Java程序
  * 使用for循环打印菱形
- * 
  */
 
 package chapter04;

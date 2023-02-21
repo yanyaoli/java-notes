@@ -10,6 +10,7 @@ package chapter03;
 
 public class exercise7 {
     public static void main(String[] args) {
+        
         double recharge = 10;  // 话费充值
         double callCost = 0.2;  // 通话费用
         double callTime = 30;  // 已通话时长

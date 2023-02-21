@@ -8,6 +8,7 @@ package chapter03;
 
 public class exercise6 {
     public static void main(String[] args) {
+        
         double score = 80;
 
         if(score >= 60){
@@ -15,6 +16,5 @@ public class exercise6 {
         }else{
             System.out.println("成绩不及格");
         }
-
     }
 }
