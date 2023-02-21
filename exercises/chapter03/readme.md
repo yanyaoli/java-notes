@@ -1,0 +1,10 @@
+|题号|题目|
+|:---:|:---:|
+|1|[象棋口诀](./exercise1.java)|
+|2|[输出汇款单](./exercise2.java)|
+|3|[输出个人信息](./exercise3.java)|
+|4|[计算月收入](./exercise4.java)|
+|5|[计算商和余数](./exercise5.java)|
+|6|[判断成绩会否及格](./exercise6.java)|
+|7|[话费充值](./exercise7.java)|
+|8|[货车装西瓜](./exercise8.java)|

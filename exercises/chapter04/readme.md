@@ -1,0 +1,10 @@
+|题号|题目|
+|:---:|:---:|
+|1|[判断奇偶数](./exercise1.java)|
+|2|[输出菱形](./exercise2.java)|
+|3|[计算1~20的阶乘的倒数之和](./exercise3.java)|
+|4|[无重复组合](./exercise4.java)|
+|5|[查找素数](./exercise5.java)|
+|6|[判断生肖](./exercise6.java)|
+|7|[摄氏度转华氏度](./exercise7.java)|
+|8|[百钱买百鸡](./exercise8.java)|

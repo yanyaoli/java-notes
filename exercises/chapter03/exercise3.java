@@ -1,4 +1,4 @@
-/**
+/*
  * 输出个人信息
  * 控制台输出如下所示的个人基本信息。
  * 
@@ -12,7 +12,7 @@
  * 是否已婚：  false
  */
 
-package exercises.basic;
+package chapter03;
 
 public class exercise3 {
     public static void main(String[] args) {

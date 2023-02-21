@@ -1,4 +1,4 @@
-/**
+/*
  * 话费充值
  * 向手机中充值 10 元。
  * 通话 0.2 元／分钟，通话时长已有 30 分钟；
@@ -6,7 +6,7 @@
  * 计算话费余额还可以通话的时长。
  */
 
-package exercises.basic;
+package chapter03;
 
 public class exercise7 {
     public static void main(String[] args) {
