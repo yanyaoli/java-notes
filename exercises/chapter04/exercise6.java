@@ -1,4 +1,4 @@
-/*
+/**
  * 判断生肖
  * 使用 switch 多分支语句判断某一年对应的中国生肖。
  * 鼠、牛、虎、兔、龙、蛇、马、羊、猴、鸡、狗、猪
@@ -8,7 +8,7 @@ package chapter04;
 
 import java.util.Scanner;
 
-public class exercise6 {
+public class Exercise6 {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         System.out.print("请输入年份[整数]：");

@@ -1,4 +1,4 @@
-/*
+/**
  * 判断奇偶数
  * 编写Java程序，实现判断变量x是奇数还是偶数
  */
@@ -7,7 +7,7 @@ package chapter04;
 
 import java.util.Scanner;
 
-public class exercise1 {
+public class Exercise1 {
     public static void main(String[] args) {
         
         System.out.print("请输入一个整数：");

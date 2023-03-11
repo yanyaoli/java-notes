@@ -1,4 +1,4 @@
-/*
+/**
  * 计算1~20的阶乘的倒数之和
  * 编写 Java 程序
  * 使用 while 循环语句计算 1+1/2!+1/3!+…+1/20！之和。
@@ -6,7 +6,7 @@
 
 package chapter04;
 
-public class exercise3 {
+public class Exercise3 {
     public static void main(String[] args) {
         /**
          * @param i 阶数

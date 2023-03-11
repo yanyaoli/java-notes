@@ -1,4 +1,4 @@
-/*
+/**
  * 话费充值
  * 向手机中充值 10 元。
  * 通话 0.2 元／分钟，通话时长已有 30 分钟；
@@ -8,7 +8,7 @@
 
 package chapter03;
 
-public class exercise7 {
+public class Exercise7 {
     public static void main(String[] args) {
         
         double recharge = 10;  // 话费充值

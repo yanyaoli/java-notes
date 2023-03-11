@@ -1,4 +1,4 @@
-/*
+/**
  * 输出汇款单
  * 向张三卡号为1234567890987654321的银行卡里汇款10000元，
  * 控制台输出如下所示的汇款单：
@@ -18,7 +18,7 @@
 
 package chapter03;
 
-public class exercise2 {
+public class Exercise2 {
     public static void main(String[] args) {
 
         String date = "2021-03-10";

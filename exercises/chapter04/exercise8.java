@@ -1,4 +1,4 @@
-/*
+/**
  * 百钱买百鸡
  * 5文钱可以买一只公鸡，3文钱可以买1只母鸡，1文钱可以买3只雏鸡
  * 现在用100文钱买100只鸡，那么公鸡、母鸡、雏鸡各有多少只？
@@ -6,7 +6,7 @@
 
 package chapter04;
 
-public class exercise8 {
+public class Exercise8 {
     public static void main(String[] args) {
         //利用for循环，遍历每种鸡数可能的组合
         //1.如果钱不用花完

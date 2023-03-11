@@ -1,4 +1,4 @@
-/*
+/**
  * 无重复组合
  * 使用 for 循环
  * 在控制台输出由 4、5、6、7 能组成多少个互不相同且无重复数字的三位数？都是多少？
@@ -6,7 +6,7 @@
 
 package chapter04;
 
-public class exercise4 {
+public class Exercise4 {
     public static void main(String[] args) {
         
         // 计数器

@@ -1,4 +1,4 @@
-/*
+/**
  * 货车装西瓜
  * 一货车的车厢长400厘米、宽160厘米、高30厘米，
  * 现有100个直径约为23厘米的西瓜。
@@ -7,7 +7,7 @@
 
 package chapter03;
 
-public class exercise8 {
+public class Exercise8 {
     public static void main(String[] args) {
         
         int length = 400;

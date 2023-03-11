@@ -1,11 +1,11 @@
-/*
+/**
  *查找素数（大于1的整数中，只能被1和这个数本身整除的数）
  * 使用 for 循环，判断1~100有多少个素数，并在控制台上输出所有素数。
  */
 
 package chapter04;
 
-public class exercise5 {
+public class Exercise5 {
     public static void main(String[] args) {
         int count = 0; // 计数器，记录素数的个数
         for (int i = 2; i <= 100; i++) {
